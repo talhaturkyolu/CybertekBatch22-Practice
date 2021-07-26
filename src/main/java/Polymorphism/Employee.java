@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 
-//This for PR example
+//This for PR example and sending from Talha Turkyolu
 @Getter
 @Setter
 @AllArgsConstructor
