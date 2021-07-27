@@ -14,4 +14,6 @@ public class Role {
     private Integer id;
     private String description;
 
+    // Hafize is good now
+
 }
